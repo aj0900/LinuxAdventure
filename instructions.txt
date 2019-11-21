@@ -1,0 +1,31 @@
+ _             _                                                     _
+| |           | | ______  _       ______   ___   _        _  ______ | |
+| |           | ||  ____|| |     / _____| / _ \ | \      / || _____|| | 
+| |    ___    | || |     | |     | |     | | | |||\\    // || |     | |
+| |   // \\   | || |____ | |     | |     | | | ||| \\  // ||| |____ | |
+| |  //   \\  | || _____|| |     | |     | | | |||  \\//  ||| _____||_|
+| \_//     \\_/ || |____ | |____ | |____ | |_| |||   \/   ||| |____  _
+\___/       \___/|______||______| \_____| \___/ ||        |||______||_|
+ _______________________________________________________________________
+|_______________________________________________________________________|
+
+Welcome to the Linux Text Adventure! If you're reading this, you're probably
+just beginning your journey with Linux and the command line. What an exciting time! 
+
+Please, don't be stressed. Every Linux whiz had to start from the same place
+you're at right now, and even a little bit of practice can get you up to
+speed on the basics in no time.
+
+Let's talk a bit about how this adventure is designed. In Linux, the file system
+structure is primarily separated by different directories. If you're coming from
+Windows/Mac, this is a lot like the idea of a folder. In our adventure, we will
+leverage this setup in order to build a fictional world in which your journey
+will take place.
+
+If you already used the ls command, you're aware of what's inside this directory.
+One of these things must have stood out to you: the one in blue text. This color
+(in default settings) denotes a subdirectory, and this particular subdirectory,
+called 'entrance', serves as the gateway to our fictional world.
+ 
+- describe how we'll use commands here or in README?
+- talk about using ls, cd (actual definitions and in context of this project)
