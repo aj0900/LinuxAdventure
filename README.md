@@ -11,30 +11,41 @@ Learning Linux is a valuable skill for any programmer, but it can be intimidatin
 ### TO-DOs:
 - Need to come up with a general story (mystery?)
 - Decide whether user will have to write their own programs at times
+
   May make idea of adding their name to text file more difficult since other files will be affected in the commit
 
 ### Main Linux Commands to Target:
 
 1. pwd (print working directory)
+
   User can call if they forget where they are.
 2. ls (list contents of current directory)
+
   User will need to call for every 'room' to see what's around.
 3. cd (change directory)
+
   User will need to call to navigate 'rooms'.
 4. cat (copy file to stdout)
+
   User will need to call to read 'instructions' files.
 5.  ./executable (run executable)
+
   User will need to run smaller programs within certain rooms.
 
 ### Others?
 - nano/some editor?
+
   Could have user write small pieces of code.
 - touch?
+
   Similar idea to above
 - gcc/cc/some compiler
+
   User would have to compile any program they write
 - alias
+
   Could use as an example of more complex commands
 - git commands
+
   Possibly let user add name to list and commit to master
 
