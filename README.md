@@ -19,15 +19,19 @@ Learning Linux is a valuable skill for any programmer, but it can be intimidatin
 1. pwd (print working directory)
 
   User can call if they forget where they are.
+
 2. ls (list contents of current directory)
 
   User will need to call for every 'room' to see what's around.
+
 3. cd (change directory)
 
   User will need to call to navigate 'rooms'.
+
 4. cat (copy file to stdout)
 
   User will need to call to read 'instructions' files.
+
 5.  ./executable (run executable)
 
   User will need to run smaller programs within certain rooms.
