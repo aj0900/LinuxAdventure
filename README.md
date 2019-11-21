@@ -8,6 +8,11 @@ Full project proposal available at: https://docs.google.com/document/d/134Qwa8ww
 Learning Linux is a valuable skill for any programmer, but it can be intimidating to get the hang of the different commands. This text-based game relies on the standard Linux file system structure to flesh out the game world, and the user must wield several of the core Linux commands to get around. By playing our game, the user will become more comfortable with some of the major commands used in Linux while hopefully enjoying themselves a bit along the way.
 
 
+### TO-DOs:
+- Need to come up with a general story (mystery?)
+- Decide whether user will have to write their own programs at times
+  May make idea of adding their name to text file more difficult since other files will be affected in the commit
+
 ### Main Linux Commands to Target:
 
 1. pwd (print working directory)
