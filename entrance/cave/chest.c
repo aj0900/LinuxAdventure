@@ -6,7 +6,7 @@ int main() {
 	if (access("./bridge", F_OK) != -1) {
 		FILE *filepointer;
 		filepointer = fopen("../notepad.txt", "a");
-		fprintf(filepointer, "%d %c", 2, 66);
+		fprintf(filepointer, "%d %c\n", 2, 66);
 		fclose(filepointer);
 		printf("You found another clue in the chest!\n");
 		printf("Clue printed to notepad!");
