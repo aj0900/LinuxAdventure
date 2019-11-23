@@ -1,0 +1,3 @@
+This is where players will add their names.
+
+TODO: discuss git instructions in here
