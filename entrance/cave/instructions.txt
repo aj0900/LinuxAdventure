@@ -1,2 +1,36 @@
-# talk about echo command
-# introduce touch (need to create bridge file to open chest)
+	   _____________________________
+	 /8888888888888888888888888888888\
+	|8888888/   \888888888888888888888\
+	|888888|     |888888888888888888888|
+	////////////////////////////////////
+
+	You wander into the dimly lit cave...
+
+	You can't go to far because of how dark it is, but the light creeping in from the
+ entrance is enough to illuminate something interesting: a chest! However, it lies across
+ a narrow but treacherous gorge, too large to simply jump across.
+
+	Looking around further, you notice a plank of wood laying against one of the walls
+ alongside what seems like makeshift bedding, perhaps evidence of some prior inhabitant. The
+ plank seems large and sturdy enough to use as a bridge to cross the gorge and get to the
+ chest. A lightbulb goes off in your head...
+--------------------------------------------------------------------------------------------
+ TIP: The chest contains a clue, but we cannot get it to print to our notepad right now. This is 
+      because the program will only do so if a file named 'bridge' exists in the same directory. Thus,
+      you will need to create this bridge file to be able to succesfully interact with the chest.
+      This requires a new command:
+
+      >> touch filename
+
+      The 'touch' command creates an empty file with whatever name that you choose. In this case, you will
+      need to create a file named 'bridge' for the program to work. Try using the command and use 'ls' to
+      confirm that the file was created. Then, interact with the chest again and see the result!
+
+ FYI: The acoustics in this cave are great! It's the perfect time to introduce another command: 'echo'.
+      Try the following:
+     
+      >> echo hello
+     
+      Interesting, right? This command is primarily used in bash scripts (programs that are built with Linux
+      commands), but it is certainly a fun one to be aware of.
+ 
