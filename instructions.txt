@@ -10,13 +10,11 @@
 
 	Welcome to the Linux Text Adventure! If you're reading this, you're probably just beginning your journey
  with Linux and the command line.  What an exciting time! Please, don't be stressed. Every Linux whiz had to start
- from the same place you're at right now, and just a little bit of practice can get you up to speed on the basics
- in no time.
+ from the same place you're at right now, and just a little bit of practice can get you up to speed on the basics.
 
 	Let's talk a bit about how this adventure is designed. In Linux, the file system structure is primarily
  separated by different directories. If you're coming from Windows/Mac, this is a lot like the idea of a folder.
- In our adventure, we will leverage this setup in order to build a fictional world in which your journey will
- take place.
+ In our adventure, we will leverage this setup in order to build a world in which your journey will take place.
 
 	If you already used the ls command, you're aware of what's inside this directory. One of these things must
  have stood out to you immediately: the one in blue text. This color (in default settings) denotes a subdirectory,
@@ -32,4 +30,6 @@
    -ls: list directory contents (look around areas)	-cat: print file contents to stdout (read instructions)	
    -cd: change directory (move between areas)		-pwd: print working directory (in case you get lost)
 
+	When you're done, use the skills you've learned to write a message to the 'players.txt' file and get started with
+ git! (Have them checkout branch first?)
 	Ready? Type 'cd entrance' to move into the entrance directory and begin. Good luck!
