@@ -1,0 +1,15 @@
+# Add another ASCII graphic?
+# Give basic stry outline, directions on where to go next
+
+
+
+
+ TIP: Need to move backwards? Take advantage of Linux's 'dot' notation to return to where you just were.
+      This prior directory, the one our current subdirectory is located in, is called the parent directory.
+      It's simple. When you want to return to the parent directory, just type:
+
+      >> cd ..		(Don't include the >>, that's just to indicate that we're using the terminal.)
+
+      Those two periods indicate that we're talking about the parent directory, and using them with the
+      cd command will take you back there! This is extremely useful for when you find yourself having to
+      constantly navigate back and forth between directories.
