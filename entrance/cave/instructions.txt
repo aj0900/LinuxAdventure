@@ -1,0 +1,2 @@
+# talk about echo command
+# introduce touch (need to create bridge file to open chest)
