@@ -38,7 +38,7 @@ int main() {
 	// Leave this part as it is. It handles printing to your notepad.
 	FILE *filepointer;
 	filepointer = fopen("../notepad.txt", "a");
-	fprintf(filepointer, "%d %s", 1, "A");
+	fprintf(filepointer, "%d %c", 1, 65);
 	fclose(filepointer);
 	printf("Clue printed to notepad! Please don't run this file again.");
 
