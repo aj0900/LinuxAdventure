@@ -16,23 +16,23 @@ Learning Linux is a valuable skill for any programmer, but it can be intimidatin
 
 ### Main Linux Commands to Target:
 
-1. pwd (print working directory)
+1. ~~pwd (print working directory)~~
 
   User can call if they forget where they are.
 
-2. ls (list contents of current directory)
+2. ~~ls (list contents of current directory)~~
 
   User will need to call for every 'room' to see what's around.
 
-3. cd (change directory)
+3. ~~cd (change directory)~~
 
   User will need to call to navigate 'rooms'.
 
-4. cat (copy file to stdout)
+4. ~~cat (copy file to stdout)~~
 
   User will need to call to read 'instructions' files.
 
-5.  ./executable (run executable)
+5. ~~./executable (run executable)~~
 
   User will need to run smaller programs within certain rooms.
 
@@ -40,15 +40,11 @@ Learning Linux is a valuable skill for any programmer, but it can be intimidatin
 - nano/some editor?
 
   Could have user write small pieces of code.
-- touch?
-
-  Similar idea to above, or have script that checks if file exists in directory before writing clue to notepad
+- ~~touch~~
 - gcc/cc/some compiler
 
   User would have to compile any program they write
-- alias
-
-  Could use as an example of more complex commands, shorten common commands in adventure like 'cat instructions.txt'
+- ~~alias~~
 - git commands
 
   Possibly let user add name to list and commit to master
@@ -57,8 +53,7 @@ Learning Linux is a valuable skill for any programmer, but it can be intimidatin
 
   Need to change permissions to run a file?
 
-- echo
-  Have some sort of cave area?
+- ~~echo~~
 
 - clear
 - ctrl-c (kill process)
