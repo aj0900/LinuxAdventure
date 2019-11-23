@@ -42,14 +42,25 @@ Learning Linux is a valuable skill for any programmer, but it can be intimidatin
   Could have user write small pieces of code.
 - touch?
 
-  Similar idea to above
+  Similar idea to above, or have script that checks if file exists in directory before writing clue to notepad
 - gcc/cc/some compiler
 
   User would have to compile any program they write
 - alias
 
-  Could use as an example of more complex commands
+  Could use as an example of more complex commands, shorten common commands in adventure like 'cat instructions.txt'
 - git commands
 
   Possibly let user add name to list and commit to master
 
+- chmod
+
+  Need to change permissions to run a file?
+
+- echo
+  Have some sort of cave area?
+
+- clear
+- ctrl-c (kill process)
+
+  Have intentional endless loop
