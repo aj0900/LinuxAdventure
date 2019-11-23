@@ -1,5 +1,4 @@
-# LinuxAdventure
-Linux Learner's Adventure
+# Linux Learner's Adventure
 
 ## Christian Panici, Miguel Gonzalez, AJ Javed
 
@@ -10,9 +9,11 @@ Learning Linux is a valuable skill for any programmer, but it can be intimidatin
 
 ### TO-DOs:
 - Need to come up with a general story (mystery?)
-- Decide whether user will have to write their own programs at times
+- Need to include more commands/Linux-isms
+- Need a name (Wizard of OS?)
+- Need to iron out how git lesson will be included
 
-  May make idea of adding their name to text file more difficult since other files will be affected in the commit
+  Should they check out a branch at very beginning?
 
 ### Main Linux Commands to Target:
 
@@ -36,26 +37,34 @@ Learning Linux is a valuable skill for any programmer, but it can be intimidatin
 
   User will need to run smaller programs within certain rooms.
 
-### Others?
-- nano/some editor?
+6. ~~nano~~
 
-  Could have user write small pieces of code.
-- ~~touch~~
-- gcc/cc/some compiler
+  User will write small pieces of code.
+
+7. ~~touch~~
+
+  User will need to create files at certain points.
+
+8. ~~gcc/cc/some compiler~~
 
   User would have to compile any program they write
-- ~~alias~~
-- git commands
+
+9. ~~alias~~
+
+  User can define shortcuts for repeated commands
+
+10. git commands
 
   Possibly let user add name to list and commit to master
 
-- chmod
+11. chmod
 
   Need to change permissions to run a file?
 
-- ~~echo~~
+12. ~~echo~~
 
-- clear
-- ctrl-c (kill process)
+13. clear
+
+14. ~~ctrl-c (kill process)~~
 
   Have intentional endless loop
