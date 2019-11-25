@@ -25,6 +25,6 @@
 
       >> nano merry-go-round.c
 
-      This command is one of the built-in Linux text editors, and it allows us to, among other things,
+      This command opens one of the built-in Linux text editors, and it allows us to, among other things,
       write programs. Open up the merry-go-round.c file with nano to get started and receive further 
       instructions.
