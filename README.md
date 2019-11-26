@@ -56,6 +56,12 @@ Learning Linux is a valuable skill for any programmer, but it can be intimidatin
 10. git commands
 
   Possibly let user add name to list and commit to master
+  
+  Possible command:
+  - git branch 
+  - git add
+  - git checkout (??)
+  - git commit/push
 
 11. chmod
 
