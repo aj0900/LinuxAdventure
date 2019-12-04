@@ -1,8 +1,16 @@
 # Add another ASCII graphic?
-# Give basic story outline, directions on where to go next
 
-
-
+      Welcome to OS! Long ago, a group of brave developers created this land as a sanctuary against a great
+      evil: proprietary software. Led by Linus Torvalds, the Wizard of OS, these individuals sought to protect
+      the distribution of free software and source code from those who desired only to sell it, guarding their
+      source code from the eyes of the greater development community. As a way to remind future generations of
+      the reason for their struggle, the Wizard of OS hid several clues around the land for new developers to
+      discover and piece together. Find all of these clues and you will be able to answer the great question:
+      
+      What is the meaning of the open-source movement?
+      
+      The clues can be collected in any order, and you can view the ones you already have by looking at your
+      notepad. Good luck, and safe travels!
 ------------------------------------------------------------------------------------------------------------
  TIP: Need to move backwards? Take advantage of Linux's 'dot' notation to return to where you just were.
       This prior directory, the one our current subdirectory is located in, is called the parent directory.
