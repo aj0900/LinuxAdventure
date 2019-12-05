@@ -3,9 +3,9 @@
 
 int main() {
     
-    int a = 294; 
-    int b = 999;
-    int c = 698;
+    int a; 
+    int b;
+    int c;
 
     int code_sum = a + b + c;
 
