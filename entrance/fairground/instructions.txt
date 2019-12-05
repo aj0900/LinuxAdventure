@@ -1,5 +1,3 @@
-# need story details
-
 
 
 	You walk into the fairground. The tattered signage and boarded-up stands suggest
@@ -7,9 +5,11 @@
  tune ringing out...
 
  As you walk towards it, you identify the source: a classic merry-go-round, still turning as
- if it hasn't noticed the decay around it. You have a feeling that you should search it for a
- clue, but it's turning too quickly to investigate. Looks like you'll have to find a way to
- stop it before you can do any detective work...
+ if it hasn't noticed the decay around it. You recall some locals mentioning how the Wizard 
+ of OS loved merry-go-rounds, as they represent the circular relationship he envisioned 
+ between software developers and the open-source community. You have a feeling that you should
+ search it for a clue, but it's turning too quickly to investigate. Looks like you'll have to
+ find a way to stop it before you can do any detective work...
 -------------------------------------------------------------------------------------------
  TIP: You probably noticed the green file when you listed the contents of this directory. In
       Linux, this denotes an executable, a compiled version of a program that can be run by the 
