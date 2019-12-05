@@ -7,8 +7,9 @@
 	You wander into the dimly lit cave...
 
 	You can't go to far because of how dark it is, but the light creeping in from the
- entrance is enough to illuminate something interesting: a chest! However, it lies across
- a narrow but treacherous gorge, too large to simply jump across.
+ entrance is enough to illuminate something interesting: a chest! This may be a little cliche,
+ but you get the impression there's something valuable inside that you should retrieve.
+ However, it lies across a narrow but treacherous gorge, too large to simply jump across.
 
 	Looking around further, you notice a plank of wood laying against one of the walls
  alongside what seems like makeshift bedding, perhaps evidence of some prior inhabitant. The
