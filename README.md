@@ -74,3 +74,5 @@ Learning Linux is a valuable skill for any programmer, but it can be intimidatin
 14. ~~ctrl-c (kill process)~~
 
   Have intentional endless loop
+15. ~~rm filename~~
+16. ~~grep~~ 
