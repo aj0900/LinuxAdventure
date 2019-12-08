@@ -1,0 +1,28 @@
+
+	You look around at a field littered with heaps of rubble. Long ago, this served
+	as a place for developers to gather and exchange ideas, but it was reduced to
+	pebbles in an attack by Bill Gates, the Wicked Wizard of Proprietary Software.
+	You heard that the Wizard of OS placed a hint here in an inscription on a pillar,
+	but it's not readily visible amidst all the crumbled rock. You have a feeling
+	it's still here, but it must be hidden somewhere. If only you had a way to look
+	for hidden objects...
+---------------------------------------------------------------------------------------------
+
+	TIP: In this area, we need to search for something that is hidden. In Linux, files can
+	be hidden by placing a period before the file name. For example, consider this command:
+
+	>> touch .hidden
+
+	This command will create a hidden file. Don't believe us? Try it out, then type 'ls'. 
+	It's like it's not even there!
+
+	Now, though we may hide files, we still want to be able to see them. To view hidden files
+	in a directory, use the following command:
+
+	>> ls -a
+
+	That '-a' is called an option, and it serves as one of many ways to modify Linux commands
+	for varied functionality. In this case, it lists all files in a directory, even those
+	that would normally be hidden. Many commands support options, including some that we've used
+	already. Once you see the hidden file, run it like any other executable (./filename) and
+	collect your clue!
