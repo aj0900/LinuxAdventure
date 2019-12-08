@@ -1,0 +1,30 @@
+___________________________________  
+| _____ |   | ___ | ___ ___ | |   |B|
+| |   | |_| |__ | |_| __|____ | | | |
+| | | |_________|__ |______ |___|_| |
+| |_|   | _______ |______ |   | ____|
+| ___ | |____ | |______ | |_| |____ |
+|___|_|____ | |   ___ | |________ | |
+|   ________| | |__ | |______ | | | |
+| | | ________| | __|____ | | | __| |
+|_| |__ |   | __|__ | ____| | |_| __|
+|   ____| | |____ | |__ |   |__ |__ |
+| |_______|_______|___|___|___|_____|
+
+	As you explore the Land of OS you find yourself in a corn maze. 
+After hours and hours of looking for the exit to the maze you finally 
+find it BUT it is blocked by a wall labeled "EXIT_BLOCK." You have to 
+find a way to remove this blockade to exit the maze and get the clue 
+that is on the other side.  
+
+------------------------------------------------------------------------------------------
+TIP: If you look at the cave corn-maze directory you will find that there is a file named 'EXIT_BLOCK.' 
+
+	The simple fact that this file exists is preventing the program from printing the clue onto the notepad. 
+
+	You will need to remove this file in order for the file to get the next clue. 
+	This requires a new command:
+	
+	>> rmdir filename 
+
+	The 'rmdir' command is used to remove/delete a directory of your choice. 
