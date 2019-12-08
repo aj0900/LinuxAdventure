@@ -3,7 +3,7 @@
 
 int main() {
 
-    if (access("./EXIT_BLOCK", F_OK) != -1) {
+    if (access("./EXIT_BLOCK.txt", F_OK) != -1) {
         printf("The exit is blocked!\n");
     }
     else {
