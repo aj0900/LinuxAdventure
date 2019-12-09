@@ -1,4 +1,3 @@
-# Add another ASCII graphic?
 
       Welcome to OS! Long ago, a group of brave developers created this land as a sanctuary against a great
       evil: proprietary software. Led by Linus Torvalds, the Wizard of OS, these individuals sought to protect
@@ -10,7 +9,12 @@
       What is the meaning of the open-source movement?
       
       The clues can be collected in any order, and you can view the ones you already have by looking at your
-      notepad. Good luck, and safe travels!
+      notepad. Each clue is labelled with a number, so if you do collect them out of order, simply use the
+      following command to view them in the correct order:
+
+      >> sort notepad.txt
+
+      Good luck, and safe travels!
 ------------------------------------------------------------------------------------------------------------
  TIP: Need to move backwards? Take advantage of Linux's 'dot' notation to return to where you just were.
       This prior directory, the one our current subdirectory is located in, is called the parent directory.
