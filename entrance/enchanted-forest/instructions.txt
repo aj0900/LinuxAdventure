@@ -1,51 +1,50 @@
-                     /#\
-                    /###\     /\
-                   /  ###\   /##\  /\
-                  /      #\ /####\/##\
-                 /  /      /   # /  ##\             _       /\
-               // //  /\  /    _/  /  #\ _         /#\    _/##\    /\
-              // /   /  \     /   /    #\ \      _/###\_ /   ##\__/ _\
-             /  \   / .. \   / /   _   { \ \   _/       / //    /    \\
-     /\     /    /\  ...  \_/   / / \   } \ | /  /\  \ /  _    /  /    \ /\
-  _ /  \  /// / .\  ..%:.  /... /\ . \ {:  \\   /. \     / \  /   ___   /  \
- /.\ .\.\// \/... \.::::..... _/..\ ..\:|:. .  / .. \\  /.. \    /...\ /  \ \
-/...\.../..:.\. ..:::::::..:..... . ...\{:... / %... \\/..%. \  /./:..\__   \
- .:..\:..:::....:::;;;;;;::::::::.:::::.\}.....::%.:. \ .:::. \/.%:::.:..\
-::::...:::;;:::::;;;;;;;;;;;;;;:::::;;::{:::::::;;;:..  .:;:... ::;;::::..
-;;;;:::;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;];;;;;;;;;;::::::;;;;:.::;;;;;;;;:..
-;;;;;;;;;;;;;;ii;;;;;;;;;;;;;;;;;;;;;;;;[;;;;;;;;;;;;;;;;;;;;;;:;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;iiiiiiii;;;;;;;;;;;;;;};;ii;;iiii;;;;i;;;;;;;;;;;;;;;ii;;;
-iiii;;;iiiiiiiiiiIIIIIIIIIIIiiiiiIiiiiii{iiIIiiiiiiiiiiiiiiii;;;;;iiiilliiiii
-IIIiiIIllllllIIlllIIIIlllIIIlIiiIIIIIIIIIIIIlIIIIIllIIIIIIIIiiiiiiiillIIIllII
-IIIiiilIIIIIIIllTIIIIllIIlIlIIITTTTlIlIlIIIlIITTTTTTTIIIIlIIllIlIlllIIIIIIITT
-IIIIilIIIIITTTTTTTIIIIIIIIIIIIITTTTTIIIIIIIIITTTTTTTTTTIIIIIIIIIlIIIIIIIITTTT
-IIIIIIIIITTTTTTTTTTTTTIIIIIIIITTTTTTTTIIIIIITTTTTTTTTTTTTTIIIIIIIIIIIIIITTTTT
+	                     /#\
+	                    /###\     /\
+	                   /  ###\   /##\  /\
+	                  /      #\ /####\/##\
+	                 /  /      /   # /  ##\             _       /\
+	               // //  /\  /    _/  /  #\ _         /#\    _/##\    /\
+	              // /   /  \     /   /    #\ \      _/###\_ /   ##\__/ _\
+	             /  \   / .. \   / /   _   { \ \   _/       / //    /    \\
+	     /\     /    /\  ...  \_/   / / \   } \ | /  /\  \ /  _    /  /    \ /\
+	  _ /  \  /// / .\  ..%:.  /... /\ . \ {:  \\   /. \     / \  /   ___   /  \
+	 /.\ .\.\// \/... \.::::..... _/..\ ..\:|:. .  / .. \\  /.. \    /...\ /  \ \
+	/...\.../..:.\. ..:::::::..:..... . ...\{:... / %... \\/..%. \  /./:..\__   \
+	 .:..\:..:::....:::;;;;;;::::::::.:::::.\}.....::%.:. \ .:::. \/.%:::.:..\
+	::::...:::;;:::::;;;;;;;;;;;;;;:::::;;::{:::::::;;;:..  .:;:... ::;;::::..
+	;;;;:::;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;];;;;;;;;;;::::::;;;;:.::;;;;;;;;:..
+	;;;;;;;;;;;;;;ii;;;;;;;;;;;;;;;;;;;;;;;;[;;;;;;;;;;;;;;;;;;;;;;:;;;;;;;;;;;;;
+	;;;;;;;;;;;;;;;;;;;iiiiiiii;;;;;;;;;;;;;;};;ii;;iiii;;;;i;;;;;;;;;;;;;;;ii;;;
+	iiii;;;iiiiiiiiiiIIIIIIIIIIIiiiiiIiiiiii{iiIIiiiiiiiiiiiiiiii;;;;;iiiilliiiii
+	IIIiiIIllllllIIlllIIIIlllIIIlIiiIIIIIIIIIIIIlIIIIIllIIIIIIIIiiiiiiiillIIIllII
+
+	You strain your neck to gaze upon the peaks of the famous OS Mountain. The only
+	thing that comes close to matching their height is the lofty canopy of the
+	Echanted Forest of OS, a magical place where the Wizard often visited to clear
+	his mind. An OS Dwarf stands against a tree trunk, as if he was awaiting your
+	arrival...
 
 
-OS Dwarf: "Welcome to the Enchanted Forest of OS Land. The Wizard of OS has assigned you with the task of taking the Linux sphere to the top of OS Mountain. I suggest you put his sphere in your traveling pouch. Good luck on your journey!" 
+	OS Dwarf: Welcome to the Enchanted Forest of OS Land! The Wizard of OS has assigned
+		  you with the task of taking the Linux sphere to the top of OS Mountain. 
+		  I suggest you put his sphere in your traveling pouch. Good luck!
+-------------------------------------------------------------------------------------------------- 
 
-TIP: The OS Dwarf suggested you put the Linux sphere in a pouch. This is a great time to learn a new command. To put the Linux sphere in a pouch you will need to create a new directory named "pouch" 
+	TIP: The OS Dwarf suggested you put the Linux sphere in a pouch. This is a great time to learn a
+	new command. To put the Linux sphere in a pouch you will need to create a new directory named 'pouch'. 	
+	To create directories, use the command:
+
+	>> mkdir directory_name
 	
-	To create directories use the command:
+	Where directory_name can be any name you want!
 
-	>> mkdir file_name
-	
-	where file_name can be any name you want!
-
-TIP: To move the Linux sphere file to your pouch you will need a new command, mv.
-
-	mv is used as follows:
+	TIP: To move the Linux sphere file to your pouch, you will need a new command, 'mv'.
+	Use it as follows:
 	
 	>> mv file_path destination_path 
 
 	WARNING: mv is also used to rename a file without moving it to another location.
 	Make sure you follow the correct syntax. 
 
-TIP: To get your next clue you will have to move the linux sphere file from the pouch directory into the OS-Mountain directory using the mv command as well. 
-	
-	NOTE: Keep in mind that the Linux sphere will be in your newly created directory
-	named, "pouch"
-
-
-
-    
+	TIP: To get your next clue, you will have to move the Linux sphere file from the pouch directory into
+	the OS-Mountain directory. Then, run the 'quest' executable to see if you succeeded.
