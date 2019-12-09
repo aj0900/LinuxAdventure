@@ -34,7 +34,7 @@ itself. By also including small coding tasks in C, we offer a comprehensive rund
 ### Material Covered:
 We touch upon the following Linux commands in this game:
 
-	pwd, ls, cd, cat, nano, touch, cc, alias, echo, clear, rm, grep, mv, sort, cal
+	pwd, ls, cd, cat, nano, touch, cc, alias, echo, clear, rm, grep, mv, mkdir, sort, cal
 
 In addition, we cover a variety of concepts such as:
 
@@ -112,10 +112,11 @@ make a pull request with any additional areas you had in mind!
   Have intentional endless loop
 15. ~~rm filename~~
 16. ~~grep~~
-17. mv 
+17. ~~mv~~
 
     Have player move file from one directory to another
   
-18. ~~sort~~
-19. ~~cal~~
-20. ~~ls -a~~ 
+18. ~~mkdir~~
+19. ~~sort~~
+20. ~~cal~~
+21. ~~ls -a~~ 
