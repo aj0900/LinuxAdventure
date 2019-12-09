@@ -1,6 +1,0 @@
-TIP: To get your next clue you will have to move the file from DIREC_1 to DIREC_2. Moving files to new locations requires a new command:
-	
-	>> mv file_path destination_path 
-
-	WARNING: mv is also used to rename a file without moving it to another location.
-	Make you follow the correct syntax. 
