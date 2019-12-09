@@ -1,0 +1,24 @@
+
+	You walk through the grand entrance into the great library of OS. The Wizard
+	believed that the power of the open-source forces was derived from their
+	ability to share information, and this library is a physical testament to
+	that point. You notice one of your favorite books laying out on a table:
+	"The C Programming Language" by Kernighan and Ritchie. Turning to the other
+	direction, you see a reception desk staffed by a man in a brown tunic. This
+	must be the Chief Historian of OS, personally appointed by the Wizard himself
+	to manage this vast collection and preseve the history of the land. He's certain
+	to be aware of a clue, but he's been known to test travelers before disclosing
+	it. Looks like you might have to brush up on your history...
+-----------------------------------------------------------------------------------------
+
+	TIP: If you've already tried talking to the Historian, you'll know that he wants
+	you to answer his question correctly before giving up the clue. We need to know
+	about a certain date, but we can't use a search engine! Luckily, Linux has a handy
+	tool for dealing with calendars. Look at the following command:
+
+	>> cal MM YYYY
+
+	The 'cal' command allows us to view calendars for all sorts of different times. Using
+	the specified format, you can look up the calendar for a specific month and year. Try
+	looking up what day your birthday will be on next year, then figure out how to use this
+	command to learn what the Historian wants you to know.
