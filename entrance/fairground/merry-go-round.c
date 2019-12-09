@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 
-/* Welcome to the first coding challenge! Don't worry, we aren't expecting you to be an expert
+/* Welcome to the coding challenge! Don't worry, we aren't expecting you to be an expert
  * in C. These will be light puzzles that require small adjustments/additions to complete. 
  * This might seem a lot scarier than the IDE you may be used to using for Java or Python, but
  * a lot of the logic in the code will look familiar.
