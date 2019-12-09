@@ -38,7 +38,7 @@ We touch upon the following Linux commands in this game:
 
 In addition, we cover a variety of concepts such as:
 
-	killing processes, directory naming conventions, hidden files,
+	killing processes, directory naming conventions, hidden files, using command options,
 	running executables 
 
 ### Future Work:
