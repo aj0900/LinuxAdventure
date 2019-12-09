@@ -22,17 +22,29 @@ IIIIilIIIIITTTTTTTIIIIIIIIIIIIITTTTTIIIIIIIIITTTTTTTTTTIIIIIIIIIlIIIIIIIITTTT
 IIIIIIIIITTTTTTTTTTTTTIIIIIIIITTTTTTTTIIIIIITTTTTTTTTTTTTTIIIIIIIIIIIIIITTTTT
 
 
-OS Dwarf: "Welcome to the Enchanted Forest of OS Land. The Wizard of OS has assigned you with the task of taking the Linux sphere to the top of OS Mountain. Good luck on your journey!" 
+OS Dwarf: "Welcome to the Enchanted Forest of OS Land. The Wizard of OS has assigned you with the task of taking the Linux sphere to the top of OS Mountain. I suggest you put his sphere in your traveling pouch. Good luck on your journey!" 
 
-TIP: To get your next clue you will have to move the 
-linux sphere file from the Forest directory to the OS-Mountain directory. 
+TIP: The OS Dwarf suggested you put the Linux sphere in a pouch. This is a great time to learn a new command. To put the Linux sphere is a pouch you will need to create a new directory named "pouch" 
+	
+	To create directories use the command:
 
-	Moving files to new locations requires a new command:
+	>> mkdir file_name
+	
+	where file_name can be any name you want!
+
+TIP: To move the Linux sphere file to your pouch you will need a new command, mv.
+
+	mv is used as follows:
 	
 	>> mv file_path destination_path 
 
 	WARNING: mv is also used to rename a file without moving it to another location.
 	Make sure you follow the correct syntax. 
+
+TIP: To get your next clue you will have to move the linux sphere file from the Forest directory to the OS-Mountain directory using the mv command as well. 
+	
+	NOTE: Keep in mind that the Linux sphere will be in your newly created directory
+	named, "pouch."
 
 
 
