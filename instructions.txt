@@ -20,11 +20,11 @@
  have stood out to you immediately: the one in blue text. This color (in default settings) denotes a subdirectory,
  and this particular subdirectory, called 'entrance', serves as the gateway to our fictional world. 
  
-	As you traverse through each room, you'll find more instructions.txt files to interact with. Each one will
+	As you traverse through each area, you'll find more instructions.txt files to interact with. Each one will
  provide more story details as well as information on specific commands you'll have to use to progress. Make sure
  to read the instructions as soon as you enter a new area! To solve the mystery, you will have to complete small
  coding challenges in C that will print letters of the solution to your notepad (located in entrance). Once you
- have collected all ### clues, you can look at your notepad and see the answer!
+ have collected all 7 clues, you can look at your notepad and see the answer!
 
 	We know you're eager to begin, so here's a few things before you go: the commands you'll need to get started:
    -ls: list directory contents (look around areas)	-cat: print file contents to stdout (read instructions)	
