@@ -5,11 +5,11 @@
 Full project proposal available at: https://docs.google.com/document/d/134Qwa8wwQyl2liPa47SbT-2e_rv1rcY4dngqKlOC0GA/edit?usp=sharing
 
 ### Summary:
-	Learning Linux is a valuable skill for any programmer, but it can be intimidating to get the hang of the different commands. This text-based game relies on the standard Linux file system structure to flesh out the game world, and the user must wield several of the core Linux commands to get around. By playing our game, the user will become more comfortable with some of the major commands used in Linux while hopefully enjoying themselves a bit along the way.
+Learning Linux is a valuable skill for any programmer, but it can be intimidating to get the hang of the different commands. This text-based game relies on the standard Linux file system structure to flesh out the game world, and the user must wield several of the core Linux commands to get around. By playing our game, the user will become more comfortable with some of the major commands used in Linux while hopefully enjoying themselves a bit along the way.
 
 ### How to Run:
 
-	Specific instructions for areas are explained further within the game. To get started,
+Specific instructions for areas are explained further within the game. To get started,
 follow the instructions provided by GitHub to clone this repository to your system. Once that's
 done, use the following command to enter the project directory:
 
@@ -22,7 +22,7 @@ From there, use the following command to read the first instructions file:
 Additional commands will be explained thoroughly as you progress. Enjoy!
 
 ### Inspiration:
-	Coming into our Operating Systems class, many of us had little to no exposure to Linux. As most of our work involved leveraging this system,
+Coming into our Operating Systems class, many of us had little to no exposure to Linux. As most of our work involved leveraging this system,
 it was imperative that we got ourselves acquainted with it fairly quickly. While learning Linux is far less difficult than it may seem at first glance,
 we felt like our learning process lacked any sort of structure, and we mostly just figured things out as we went along. This is by no means a "bad" way
 to learn, but it may be more challenging for those with less technical experience and lead to unnecessary frustration. By creating this game, we hope
@@ -32,17 +32,17 @@ fun to the experience, and we communicate the technical information in a way tha
 itself. By also including small coding tasks in C, we offer a comprehensive rundown to the basics of lower-level programming.
 
 ### Material Covered:
-	We touch upon the following Linux commands in this game:
+We touch upon the following Linux commands in this game:
 
 	pwd, ls, cd, cat, nano, touch, cc, alias, echo, clear, rm, grep, mv, sort, cal
 
-	In addition, we cover a variety of concepts such as:
+In addition, we cover a variety of concepts such as:
 
 	killing processes, directory naming conventions, hidden files,
 	running executables 
 
 ### Future Work:
-	We are always looking for more creative ways to incorporate different commands and 
+We are always looking for more creative ways to incorporate different commands and 
 Linux-isms in this game. If you have an idea and are comfortable with git, feel free to
 make a pull request with any additional areas you had in mind!
 
