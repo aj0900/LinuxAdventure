@@ -33,7 +33,6 @@ int main() {
     // Leave this part as it is. It handles printing to your notepad.
     if (code_sum != CODE_SUM) {
         printf("Wrong code!\n");
-        sleep(2);
 	exit(0);
     }
 
