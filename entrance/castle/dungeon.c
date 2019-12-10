@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <unistd.h>
+#include <stdlib.h>
 #define CODE_SUM 1991
 
 /* Welcome to the coding challenge! Don't worry, we aren't expecting you to be an expert
@@ -30,10 +31,10 @@ int main() {
     int code_sum = a + b + c;
 
     // Leave this part as it is. It handles printing to your notepad.
-    while(code_sum != CODE_SUM) {
+    if (code_sum != CODE_SUM) {
         printf("Wrong code!\n");
         sleep(2);
-
+	exit(0);
     }
 
     FILE *filepointer;
