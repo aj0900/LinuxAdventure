@@ -1,24 +1,31 @@
 
-You enter into a castle but as you walk in the drawbridge you took enter the castle compound closes behind you. You make your way to the dungeon and find a prisoner note. The note contains the code needed to lower the drawbridge but the note is very lengthy and makes no sense. You notice the prisoner left the following hint for you to make it easier to find the code: "code for the drawbridge labeled 'BRIDGE_CODE'" Successful retrieval of the code will result in discovery of another clue and an exit from the castle. 
+	You enter into a castle, but as you walk in, the drawbridge you took to enter the castle compound
+	closes behind you. You make your way to the dungeon and find a prisoner's note. The note contains
+	the code needed to lower the drawbridge, but the note is very lengthy and makes no sense. You notice
+	the prisoner left the following hint for you to make it easier to find the code:
 
-------------------------------------------------------------------------------------------
-TIP: You probably noticed the green file when you listed the contents of this directory. In
-      Linux, this denotes an executable, a compiled version of a program that can be run by the 
-      computer. Try interacting with the dungeon in its current state. To do so, try:
+	"The code for the drawbridge is labeled 'BRIDGE_CODE'!"
+	
+	Successful retrieval of the code will result in discovery of another clue and an exit from the castle. 
 
-      >> ./dungeon
+	--------------------------------------------------------------------------------------------------
+	TIP: You probably noticed the green file when you listed the contents of this directory. In
+        Linux, this denotes an executable, a compiled version of a program that can be run by the 
+        computer. Try interacting with the dungeon in its current state. To do so, try:
 
-WARNING: You will notice that the program will never end as it is now! To 'kill' the process,
-      press 'CTRL-C' (the CTRL and C button on your keyboard). This command kills a process in Linux,
-      which is useful when you find your program getting caught in a loop. 
+        >> ./dungeon
 
-TIP: To get the clue, you need to fix the dungeon.c program but in order to fix it you need to search for the drawbridge code in the prisoner-note.txt file. To get started, use the 'cat' command to look at the 
-prisoner-note.txt file:
+	TIP: To get the clue, you need to fix the dungeon.c program, but in order to fix it, you need to
+	search for the drawbridge code in the prisoner-note.txt file. To get started, use the 'cat' command
+	to look at the prisoner-note.txt file:
 	
 	>> cat prisoner-note.txt
 
-TIP: grep is a command used to find literal strings in a file BUT be careful because grep is a case sensative command:
+	TIP: 'grep' is a command used to find literal strings in a file. Be careful because grep is a case sensitive command:
 
 	>> grep "literal_string" file_name
 
-	It is your job find this code in the note and use the values to initialize the variables a, b , and c that	will give you the code_sum 
+	It is your job find this code in the note and use the values to initialize the variables a, b , and c.
+	Use 'nano' as follows to open the code challenge file and get started:
+
+	>> nano dungeon.c 
