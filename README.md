@@ -21,6 +21,14 @@ From there, use the following command to read the first instructions file:
 
 Additional commands will be explained thoroughly as you progress. Enjoy!
 
+
+### Solution:
+<details>
+  <summary>Spoiler Warning! Only view if you want the answer...</summary>
+  
+  The 7 clues you collect should spell out FREEDOM when arranged in the proper order. To us, this was the core principle behind the open-source movement spearheaded by Linus Torvalds. 
+</details>
+
 ### Inspiration:
 Coming into our Operating Systems class, many of us had little to no exposure to Linux. As most of our work involved leveraging this system,
 it was imperative that we got ourselves acquainted with it fairly quickly. While learning Linux is far less difficult than it may seem at first glance,
@@ -30,6 +38,8 @@ to offer those who are just getting started with Linux a clear, contained resour
 Linux-isms that will be crucial to know in order to use the system efficiently. We present the material in the context of a story in order to add a bit of
 fun to the experience, and we communicate the technical information in a way that is easily digestible and readily applicable to contexts beyond the game
 itself. By also including small coding tasks in C, we offer a comprehensive rundown to the basics of lower-level programming.
+
+The story itself was inspired by a documentary our professor had us watch about the history of Linux and the open-source movement. For those who would like to know more, this documentary can be found at the following link: https://www.youtube.com/watch?v=4vW62KqKJ5A.
 
 ### Material Covered:
 We touch upon the following Linux commands in this game:
