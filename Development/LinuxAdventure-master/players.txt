@@ -1,0 +1,5 @@
+This is where players will add their names.
+
+1) AJ
+
+INSTRUCTIONS: Hi now that you were able to open this file, we ask you to add your name above e.g. 1)Kevin. This will help is keep track of the players that played our game of Wizard of OS. After you are done you can save the file by using the keys command+S or go under file and click on save.
