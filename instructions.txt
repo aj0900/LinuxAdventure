@@ -30,6 +30,8 @@
    -ls: list directory contents (look around areas)	-cat: print file contents to stdout (read instructions)	
    -cd: change directory (move between areas)		-pwd: print working directory (in case you get lost)
 
-	When you're done, use the skills you've learned to write a message to the 'players.txt' file and get started with
- git! (Have them checkout branch first?)
+	When you're done, use the skills you've learned to write a message to the 'players.txt' file and get started
+with git! Go back to terminal and open git-instuctions.txt using "open' command to find instructions on how to write a
+message to the 'players.txt' file.
+
 	Ready? Type 'cd entrance' to move into the entrance directory and begin. Good luck!
