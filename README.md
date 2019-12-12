@@ -9,9 +9,10 @@ Learning Linux is a valuable skill for any programmer, but it can be intimidatin
 
 ### How to Run:
 
-Specific instructions for areas are explained further within the game. To get started,
-follow the instructions provided by GitHub to clone this repository to your system. Once that's
-done, use the following command to enter the project directory:
+Specific instructions for areas are explained further within the game. To get started, fork this repository
+by clicking the 'Fork' button at the top of the page. This will create a copy of the repository on your account. 
+Then, navigate to the page for your forked repository and follow the instructions provided by GitHub to clone it
+to your system. Once that's done, use the following command to enter the project directory:
 
 >> cd LinuxAdventure
 
