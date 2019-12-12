@@ -31,7 +31,6 @@
    -cd: change directory (move between areas)		-pwd: print working directory (in case you get lost)
 
 	When you're done, use the skills you've learned to write a message to the 'players.txt' file and get started
-with git! Go back to terminal and open git-instuctions.txt using "open' command to find instructions on how to write a
-message to the 'players.txt' file.
+with git! Look at the 'git-instructions.txt' file in this directory for more details.
 
 	Ready? Type 'cd entrance' to move into the entrance directory and begin. Good luck!
