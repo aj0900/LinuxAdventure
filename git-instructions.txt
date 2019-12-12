@@ -1,15 +1,41 @@
 	
 	
-	Welcome back! We see that you would like to add a message to our "players.txt" file.The very first thing
-	you have todo is sign up for GitHub so you can push the changes back to the master repository. You would
-	have to go to a web browser andgo to github.com to do that. After you've made a GitHub account now it's
-	time to create a branch in terminal so you can make changes and then push that command to the master 
-	repository. The first command you need is "git checkout -b branch_name". Thiscreates a branch named 
-	'branch_name'. You can use any name you'd like! Now use command"git add players.txt" to add'players.txt'
-	file to the branch we just created. To add message to 'players.txt' file  you are going to be using the
-	command "git commit -m "Added name"". You can add any message you'd like. Adding your name just makes the
-	most sense in this case. Last thing you have to do is push the change you made to the master repository.
-	You do that by using command "git push --set-upstream origin branch_name" or whatever name you used for
-	the branch and that is it. You have successfullyadded a message to a file and pushed it to the master 
-	repository. Now you can go to terminal to start your adventure! Good Luck!
+	   Welcome back! We see that you would like to get started with git, a wonderful tool for promoting teamwork and
+	collaboration between developers. We'll introduce you to a few commands by having you make an edit to the 
+	'players.txt' file located in this directory. Once you're done, you'll have made a contribution to this project!
+	
+	The first thing you have to do is sign up for GitHub. Since you've gotten to this point, we assume that you've
+	already successfully forked and cloned the repo as described in the README. 
+	
+	Once you've created an account, navigate to the command line and follow these steps:
+	
+	1. Create a branch using the following command:
+	
+	>> git checkout -b branch_name.
+	
+	This creates a branch named 'branch_name'. You can use any name you'd like! 
+	
+	2. Add your name to 'players.txt'. Use a text editor like 'nano' to open it and make changes like so:
+	
+	>> nano players.txt
+	
+	3. Once you've saved your changes, add them to the branch you created with the following command:
+	
+	>> git add players.txt
+	
+	4. Commit those changes with the following command:
+	
+	>> git commit -m "message"
+	
+	You can add any message you'd like, but make sure it's in quotes! A simple one would be "Added name".
+	
+	5. Push your changes with the following command, using the same branch_name from before:
+	
+	>> git push origin branch_name
+	
+	6. Submit your changes for review. If you go to the GitHub webpage for your repository, you'll see a button
+	that says 'Compare & Pull Request'. Click it and submit the request.
+	
+	Once we accept your change, you'll have successfully contributed to our project! Now, you can move on
+	and start your adventure. Good Luck!
 
