@@ -44,11 +44,11 @@ The story itself was inspired by a documentary our professor had us watch about 
 ### Material Covered:
 We touch upon the following Linux commands in this game:
 
-	pwd, ls, cd, cat, nano, touch, cc, alias, echo, clear, rm, grep, mv, mkdir, sort, cal
+	pwd, ls, cd, cat, nano, touch, cc, alias, echo, clear, rm, grep, mv, mkdir, sort, cal, basic git commands
 
 In addition, we cover a variety of concepts such as:
 
-	killing processes, directory naming conventions, hidden files, using command options,
+	killing processes, directory naming conventions, hidden files, using command options, version control,
 	running executables 
 
 ### Future Work:
