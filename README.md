@@ -1,6 +1,6 @@
 # The Wizard of OS: Linux Learner's Adventure
 
-## Christian Panici, Miguel Gonzalez, AsadJaved
+## Christian Panici, Miguel Gonzalez, Asad Javed
 
 Full project proposal available at: https://docs.google.com/document/d/134Qwa8wwQyl2liPa47SbT-2e_rv1rcY4dngqKlOC0GA/edit?usp=sharing
 
